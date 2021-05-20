@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
 body{
     background-image: url(https://wallpaperaccess.com/full/279935.gif);
     background-size: cover;
@@ -32,7 +34,38 @@ a,h1{
     color: black;
 }
 
-.text-center{
-    margin-left: 17%;
-    margin-top: 7%;
+.presentation{
+    color: white;
+    margin-left: 35%;
+    margin-top: 5%;
+    font-family: 'Ubuntu';
+
+
+}
+
+
+
+.presentation .texte-center .texte-1{
+
+    font-size: 27px;
+
+}
+.presentation .texte-center .texte-2{
+
+    font-size: 75px;
+    font-weight: 600;
+    margin-left: -3px;
+   
+}
+.presentation .texte-center .texte-3{
+
+    font-size: 40px;
+    margin: 5px 0;
+   
+}
+.presentation .texte-center .texte-3 span{
+
+    font-weight: 500;
+    color: blue;    
+
 }
